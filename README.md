@@ -21,10 +21,6 @@ We use R and RStudio in this course. Both are free.
 - [Download R](https://cran.r-project.org/)
 - [Download RStudio](https://posit.co/download/rstudio-desktop/)
 
-Required packages: `tidyverse`, `vcd`, `lme4` *(update as needed)*
-```r
-install.packages(c("tidyverse", "vcd", "lme4"))
-```
 
 ---
 
